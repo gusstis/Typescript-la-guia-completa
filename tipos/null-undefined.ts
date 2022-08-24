@@ -1,9 +1,9 @@
 (() => {
 
-let nada: number = undefined;
+//let nada: number = undefined;
 
 
-console.log(nada)
+//console.log(nada)
 
 
 

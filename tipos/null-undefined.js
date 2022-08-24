@@ -1,5 +1,5 @@
 "use strict";
 (function () {
-    var nada = undefined;
-    console.log(nada);
+    //let nada: number = undefined;
+    //console.log(nada)
 })();
